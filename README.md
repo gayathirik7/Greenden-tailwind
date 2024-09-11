@@ -1,8 +1,14 @@
 # Greenden-tailwind
-Greenden WebsiteWelcome to the Greenden website! 
-This project is built using HTML, CSS, and Tailwind CSS. 
-It is a simple, eco-friendly-themed website showcasing solutions for green living.
-FeaturesResponsive design using Tailwind CSSClear and eco-friendly themeSimple and easy-to-navigate layout
-Technologies Used
-HTML: Structure of the webpageCSS: Custom stylingTailwind 
-CSS: Utility-first CSS framework
+Welcome to the *Greenden* website! This project is built using *HTML, **CSS, and **Tailwind CSS*. It is a simple, eco-friendly-themed website showcasing solutions for green living.
+
+## Features
+
+- Responsive design using *Tailwind CSS*
+- Clear and eco-friendly theme
+- Simple and easy-to-navigate layout
+
+## Technologies Used
+
+- *HTML*: Structure of the webpage
+- *CSS*: Custom styling
+- *Tailwind CSS*: Utility-first CSS framework
